@@ -1,4 +1,4 @@
-- Hi 👋, I'm Srima
+- <h1>Hi 👋, I'm Srima<h1>
 - 👀 I’m interested in Frontend Development...
 - 🌱 I’m currently learning Full stack development using Django..
 
