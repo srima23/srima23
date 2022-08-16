@@ -2,7 +2,8 @@
 - 👀 I’m interested in Frontend Development...
 - 🌱 I’m currently learning Full stack development using Django..
 
-Connect with me:
+<p align="center">
+<h3 align="center">Connect with me:</h3>
 
 <a href="https://linkedin.com/in/arpita mohanty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpita mohanty" height="30" width="40" /></a>
 </p>
