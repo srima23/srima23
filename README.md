@@ -1,0 +1,9 @@
+- <h1 align="center">Hi 👋, I'm Srima</h1>
+- 👀 I’m interested in Frontend Development...
+- 🌱 I’m currently learning Full stack development using Django...
+- 📫 How to reach me ...
+
+<!---
+srima23/srima23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
