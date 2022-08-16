@@ -1,6 +1,7 @@
 <h1>Hi 👋, I'm Srima<h1>
-  -👀 I’m interested in Frontend Development...
-  -🌱 I’m currently learning Full stack development using Django..
+ <p align="center"> - 🔭 I’m currently working on **Full Stack Development**
+
+- 🌱 I’m currently learning **AWS** </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
